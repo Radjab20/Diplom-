@@ -1,0 +1,361 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heder{
+background-image: url("image/FON.png");
+background-repeat: no-repeat;
+background-origin: content-box;
+Width:2000px;
+Height:1081px;
+position: absolute;
+left: 0px;
+top: 0px;
+}
+.heder1{
+    background-image: url("image/XF.png");
+    position: absolute;
+    width: 768px;
+    height: 668px;
+    left: 1034px;
+    top: 168px;
+}
+/* СДЕЛАЙ СВОЕ УТРО БОДРЫМ */
+.Zagolovo{
+position: absolute;
+width: 961px;
+height: 198px;
+left: 199px;
+top: 391px;
+
+font-family: 'EuropeExtendedC';
+src: url("Font/EuropeExtendedC/europeextendedc.otf");
+font-weight: 400px;
+font-size: 50px;
+color: #F2F2F2;
+line-height: 99px;
+}
+/*Rectangle*/
+.cRectangle {
+position: absolute;
+width: 421px;
+height: 125px;
+left: 199px;
+top: 655px;
+background: #7C21C5;
+border-radius: 12px;
+}
+/*Подробнее*/
+.Rectanglee{
+    position: absolute;
+width: 220px;
+height: 43px;
+left: 298px;
+top: 696px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 44px;
+text-transform: uppercase;
+color: #F2F2F2;;
+}
+
+/*Шапка*/
+.Shapka{
+   
+position: absolute;
+width: 808px;
+height: 39px;
+left: 200px;
+top: 206px;
+
+}
+/*Меню*/
+.Menu{    
+left: 150px;
+top: 206px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+}
+  .du {
+      text-decoration: none;
+      color: #F2F2F2;;
+  }
+ /*Конец*/   
+
+/*О нас*/
+
+.Nac  {
+    position:absolute;
+width: 100px;
+height: 39px;
+   left:  170px;
+    top: 0px;
+font-family:'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+}
+.do{
+    text-decoration: none;
+    color: #F2F2F2;
+}
+
+/*Обмен*/
+.Objec{
+    position: absolute;
+width: 121px;
+height: 39px;
+left: 320px;
+top: 0px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+}
+
+/*Отзывы*/
+.Reviews{
+    position: absolute;
+    width: 138px;
+    height: 39px;
+    left: 500px;
+    top: 0px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+}
+
+
+
+/*Контакты*/
+.Kontact{
+    position: absolute;
+    width: 171px;
+    height: 39px;
+    left: 700px;
+    top: 0px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+}
+/*Обжарка*/
+.underli{
+    position: absolute;
+width: 544px;
+height: 88px;
+left: 1200px;
+top: 1255px;
+
+font-family: 'EuropeExtendedC';
+src: url("Font/baguette-font/Baguette-eZ20x.ttf");
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 88px;
+color: #7C21C5;
+}
+.elips1{
+    position: absolute;
+width: 290px;
+height: 290px;
+left: 245px;
+top: 1418px;
+border-radius: 100%;
+background-image: url("image/Обжарка.jpg");
+
+}
+
+.elips2{
+position: absolute;
+width: 290px;
+height: 290px;
+left: 815px;
+top: 1418px;
+border-radius: 100%;
+background-image: url("image/Среднеобжаренный.jpg");
+}
+
+.elips3{
+position:absolute;
+width: 290px;
+height: 290px;
+left: 1385px;
+top: 1418px;
+border-radius: 100%;
+background-image: url("image/Силбнообжареный.jpeg");
+}
+/*Слабообжаренный*/
+.hever{
+    position: absolute;
+width: 427px;
+height: 49px;
+left: 190px;
+top: 1748px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 49px;
+color: #7C21C5;
+}
+/*Среднеобжаренный*/
+.hever2{
+    position: absolute;
+    width: 474px;
+    height: 49px;
+    left: 800px;
+    top: 1748px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;
+    color: #7C21C5;
+}
+/*Сильнообжаренный*/
+.hever3{
+    position: absolute;
+    width: 454px;
+    height: 49px;
+    left: 1360px;
+    top: 1748px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;
+    color: #7C21C5;
+}
+/*
+Отличается явной кислинеой, <br> прекрасно сочетается с молоком. <br>
+    Зерна светло-коричневого цвета <br> позволяют проявить тонкий аромат <br> и многогранный вкус</h2>
+*/
+.text{
+    
+    position: absolute;
+    width: 477px;
+    height: 160px;
+    left: 151px;
+    top: 1822px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 130%;
+    text-align: center;
+    color: #7C21C5;
+}
+/*Традиционный способ обжарки, <br>
+    зерна темноватого цвета с сухой <br> маслянистой поверхностью. Напиток получается с кисло-сладким ароматом</h2>*/
+.text2{
+    position: absolute;
+    width: 516px;
+    height: 128px;
+    left: 704px;
+    top: 1822px;
+    
+    font-family:'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 130%;
+    text-align: center;
+    color: #7C21C5;
+}
+ /*Зерна темно-коричневого <br>
+    цвета со слабыми следами <br> маслянистости. появляется более <br> яркий и насыщенный аромат, <br> раскрывающийся наиболее полно.</h2>
+*/
+.text3{
+    position: absolute;
+    width: 468px;
+    height: 160px;
+    left: 1296px;
+    top: 1813px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 130%;
+    text-align: center;
+    color: #7C21C5;
+}
+.textcofe{
+    position: absolute;
+width: 586px;
+height: 88px;
+left: 190px;
+top: 2318px;
+
+font-family: 'EuropeExtendedC';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 88px;
+text-transform: uppercase;
+color: #7C21C5;
+}
+
+.left {
+ display: inline-flex;
+ width: 100px;
+ height: 100px;
+ position: absolute;
+left: 4.9%;
+right: 92.24%;
+top: 300.8%;
+bottom: 61.16%;
+border-radius: 5px 5px ;
+}
+.right{
+
+        display: inline-flex;
+        width: 100px;
+        height: 100px;
+        position: absolute;
+        left: 92.98%;
+        right: 0.16%;
+        top: 300.8%;
+        bottom: 61.16%;
+
+       border-radius: 5px 5px ;
+}
+
+
+
+.left{
+    
+    border-top: 5px solid #7C21C5;
+    border-left: 5px  solid #7C21C5;
+    transform:rotate(-45deg) ;
+}
+
+.right{
+    border-top:5px solid #7C21C5;
+    border-right: 5px solid #7C21C5;
+    transform:rotate(45deg) ;
+}
+/* Лента слайдов */
+.slick-track{
+	display: flex;
+	align-items: flex-start;
+}
